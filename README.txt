@@ -6,8 +6,8 @@ If you use these codes, please cite the paper:
   journal = {Journal of Electronic Imaging},
   year =    {2017},
   volume =  {26},
-  number =  {nn},
-  pages =   {pp},
+  number =  {6},
+  pages =   {063004},
 }
 
 If you have any questions, Feel free to contact me. (Email: ice.echo#gmail.com)
